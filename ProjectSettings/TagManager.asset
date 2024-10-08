@@ -5,13 +5,13 @@ TagManager:
   serializedVersion: 2
   tags:
   - floor
-  - danger
   - player
+  - danger
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Enemy
+  - 
   - Water
   - UI
   - 
