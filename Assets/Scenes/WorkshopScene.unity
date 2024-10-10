@@ -716,7 +716,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   PlayerRB: {fileID: 1826993887}
   Speed: 2
-  JumpStrength: 2
+  JumpStrength: 10
   CanJump: 1
   RespawnPoint: {fileID: 1979541288}
 --- !u!1 &1979541288
