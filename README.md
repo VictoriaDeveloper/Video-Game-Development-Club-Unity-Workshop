@@ -1,4 +1,4 @@
-#Intro To Unity + GitHub
+# Intro To Unity + GitHub
 
 On October 7, 2024 I attended the Video Game Development Club's Intro Unity + GitHub workshop. I went into the workshop with some experience with Unity mainly from CSE 165 3-D User Interaction where I explored using Unity's XR & AR toolkits with Meta's Oculus Quest 2.
 
